@@ -1,0 +1,1 @@
+Os Controllers são quem analisam os dados e realizam as ações conforme os dados processados. Ou seja, dependendo do resultado do dado que for processado ele irá chamar a ação que vai ser executada.

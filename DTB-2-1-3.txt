@@ -1,0 +1,1 @@
+Os Models são as ações que estão prontas para serem executadas porém sem uma condição para executa-lá. Ou seja, as diversas ações estão lá prontas para serem executadas mas sem saber quando serão feitas.

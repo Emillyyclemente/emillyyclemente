@@ -1,0 +1,1 @@
+As rotas são os caminhos por onde as urls passam para  realizar ações. Retornar valores, cadastrar, editar ou deletar algo no sistema.

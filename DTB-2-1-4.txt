@@ -1,0 +1,7 @@
+M - Model
+C - Controller
+V - View
+
+MCV é um padrão de acontecimentos do laravel que acontece da seguinte forma:
+
+O controller vai verificar os dados do sistema e chamar a ação/execução do model compatível com os dados verificados, que logo depois dessa ação os dados serão mostrados na tela (pela view).  
