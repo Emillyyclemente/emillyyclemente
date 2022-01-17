@@ -1,0 +1,1 @@
+Um Guard é a definição de como o sistema vai armazenar e recuperar informações dos seus usuários.

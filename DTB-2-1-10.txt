@@ -1,0 +1,1 @@
+O Auth é um comando que traz uma função que irá verificar e autenticar um usuário.

@@ -1,0 +1,1 @@
+A principal função do Composer é gerenciar os arquivos php para simplificar a usabilidade de bibliotecas externas.

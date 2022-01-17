@@ -1,0 +1,1 @@
+A principal função do Artisan é incluir o uso de comandos auxiliares para o desenvolvimento do sistema.

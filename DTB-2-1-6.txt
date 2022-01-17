@@ -1,0 +1,7 @@
+O Blade é um template do laravel que pode ser usado com código php puro.
+
+Funções diretivas:
+
+@section - Usada para criar uma sessão dentro do template.
+@empty - Usada para verificar se o valor da variável está vazio.
+@include - Usada para incluir views/sub-views.
